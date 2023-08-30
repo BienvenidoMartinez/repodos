@@ -12,10 +12,6 @@ def main():
     pass
 
 if __name__ == '__main__':
-    suma=0
-    resta=0
-    multiplicacion=0
-    division=0
     def suma(a, b):
         return a + b
 
